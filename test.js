@@ -1,5 +1,5 @@
 function google() {
-window.open("http://www.facebook.com");
+window.open("http://www.yahoo.com");
 }
 
 function yahoo() {
